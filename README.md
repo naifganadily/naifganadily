@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naif Ganadily</h1>
-<h3 align="center">A passionate entrepreneur & developer</h3>
+<h3 align="center">A Passionate Entrepreneur & Developer</h3>
 
 - 🔭 I’m currently working on **www.Jidariyah.com**
 
